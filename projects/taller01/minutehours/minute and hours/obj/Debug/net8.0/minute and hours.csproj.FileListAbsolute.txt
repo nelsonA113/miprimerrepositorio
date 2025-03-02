@@ -1,0 +1,14 @@
+C:\Users\nelso\source\repos\Exercise1\minute and hours\bin\Debug\net8.0\minute and hours.exe
+C:\Users\nelso\source\repos\Exercise1\minute and hours\bin\Debug\net8.0\minute and hours.deps.json
+C:\Users\nelso\source\repos\Exercise1\minute and hours\bin\Debug\net8.0\minute and hours.runtimeconfig.json
+C:\Users\nelso\source\repos\Exercise1\minute and hours\bin\Debug\net8.0\minute and hours.dll
+C:\Users\nelso\source\repos\Exercise1\minute and hours\bin\Debug\net8.0\minute and hours.pdb
+C:\Users\nelso\source\repos\Exercise1\minute and hours\obj\Debug\net8.0\minute and hours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelso\source\repos\Exercise1\minute and hours\obj\Debug\net8.0\minute and hours.AssemblyInfoInputs.cache
+C:\Users\nelso\source\repos\Exercise1\minute and hours\obj\Debug\net8.0\minute and hours.AssemblyInfo.cs
+C:\Users\nelso\source\repos\Exercise1\minute and hours\obj\Debug\net8.0\minute and hours.csproj.CoreCompileInputs.cache
+C:\Users\nelso\source\repos\Exercise1\minute and hours\obj\Debug\net8.0\minute and hours.dll
+C:\Users\nelso\source\repos\Exercise1\minute and hours\obj\Debug\net8.0\refint\minute and hours.dll
+C:\Users\nelso\source\repos\Exercise1\minute and hours\obj\Debug\net8.0\minute and hours.pdb
+C:\Users\nelso\source\repos\Exercise1\minute and hours\obj\Debug\net8.0\minute and hours.genruntimeconfig.cache
+C:\Users\nelso\source\repos\Exercise1\minute and hours\obj\Debug\net8.0\ref\minute and hours.dll
