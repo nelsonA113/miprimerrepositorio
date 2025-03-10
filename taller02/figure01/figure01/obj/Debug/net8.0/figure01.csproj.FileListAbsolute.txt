@@ -1,0 +1,15 @@
+C:\projects\projects\taller02\figure01\figure01\bin\Debug\net8.0\figure01.exe
+C:\projects\projects\taller02\figure01\figure01\bin\Debug\net8.0\figure01.deps.json
+C:\projects\projects\taller02\figure01\figure01\bin\Debug\net8.0\figure01.runtimeconfig.json
+C:\projects\projects\taller02\figure01\figure01\bin\Debug\net8.0\figure01.dll
+C:\projects\projects\taller02\figure01\figure01\bin\Debug\net8.0\figure01.pdb
+C:\projects\projects\taller02\figure01\figure01\obj\Debug\net8.0\figure01.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\projects\taller02\figure01\figure01\obj\Debug\net8.0\figure01.AssemblyInfoInputs.cache
+C:\projects\projects\taller02\figure01\figure01\obj\Debug\net8.0\figure01.AssemblyInfo.cs
+C:\projects\projects\taller02\figure01\figure01\obj\Debug\net8.0\figure01.csproj.CoreCompileInputs.cache
+C:\projects\projects\taller02\figure01\figure01\obj\Debug\net8.0\figure01.sourcelink.json
+C:\projects\projects\taller02\figure01\figure01\obj\Debug\net8.0\figure01.dll
+C:\projects\projects\taller02\figure01\figure01\obj\Debug\net8.0\refint\figure01.dll
+C:\projects\projects\taller02\figure01\figure01\obj\Debug\net8.0\figure01.pdb
+C:\projects\projects\taller02\figure01\figure01\obj\Debug\net8.0\figure01.genruntimeconfig.cache
+C:\projects\projects\taller02\figure01\figure01\obj\Debug\net8.0\ref\figure01.dll
