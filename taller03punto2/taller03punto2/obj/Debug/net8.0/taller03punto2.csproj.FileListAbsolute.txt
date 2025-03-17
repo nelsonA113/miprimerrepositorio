@@ -1,0 +1,15 @@
+C:\projects\projects\taller03punto2\taller03punto2\obj\Debug\net8.0\taller03punto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\projects\taller03punto2\taller03punto2\obj\Debug\net8.0\taller03punto2.AssemblyInfoInputs.cache
+C:\projects\projects\taller03punto2\taller03punto2\obj\Debug\net8.0\taller03punto2.AssemblyInfo.cs
+C:\projects\projects\taller03punto2\taller03punto2\obj\Debug\net8.0\taller03punto2.csproj.CoreCompileInputs.cache
+C:\projects\projects\taller03punto2\taller03punto2\obj\Debug\net8.0\taller03punto2.sourcelink.json
+C:\projects\projects\taller03punto2\taller03punto2\bin\Debug\net8.0\taller03punto2.exe
+C:\projects\projects\taller03punto2\taller03punto2\bin\Debug\net8.0\taller03punto2.deps.json
+C:\projects\projects\taller03punto2\taller03punto2\bin\Debug\net8.0\taller03punto2.runtimeconfig.json
+C:\projects\projects\taller03punto2\taller03punto2\bin\Debug\net8.0\taller03punto2.dll
+C:\projects\projects\taller03punto2\taller03punto2\bin\Debug\net8.0\taller03punto2.pdb
+C:\projects\projects\taller03punto2\taller03punto2\obj\Debug\net8.0\taller03punto2.dll
+C:\projects\projects\taller03punto2\taller03punto2\obj\Debug\net8.0\refint\taller03punto2.dll
+C:\projects\projects\taller03punto2\taller03punto2\obj\Debug\net8.0\taller03punto2.pdb
+C:\projects\projects\taller03punto2\taller03punto2\obj\Debug\net8.0\taller03punto2.genruntimeconfig.cache
+C:\projects\projects\taller03punto2\taller03punto2\obj\Debug\net8.0\ref\taller03punto2.dll

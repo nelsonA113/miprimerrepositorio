@@ -1,0 +1,15 @@
+C:\projects\projects\Taller03\Taller03\bin\Debug\net8.0\Taller03.exe
+C:\projects\projects\Taller03\Taller03\bin\Debug\net8.0\Taller03.deps.json
+C:\projects\projects\Taller03\Taller03\bin\Debug\net8.0\Taller03.runtimeconfig.json
+C:\projects\projects\Taller03\Taller03\bin\Debug\net8.0\Taller03.dll
+C:\projects\projects\Taller03\Taller03\bin\Debug\net8.0\Taller03.pdb
+C:\projects\projects\Taller03\Taller03\obj\Debug\net8.0\Taller03.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\projects\Taller03\Taller03\obj\Debug\net8.0\Taller03.AssemblyInfoInputs.cache
+C:\projects\projects\Taller03\Taller03\obj\Debug\net8.0\Taller03.AssemblyInfo.cs
+C:\projects\projects\Taller03\Taller03\obj\Debug\net8.0\Taller03.csproj.CoreCompileInputs.cache
+C:\projects\projects\Taller03\Taller03\obj\Debug\net8.0\Taller03.sourcelink.json
+C:\projects\projects\Taller03\Taller03\obj\Debug\net8.0\Taller03.dll
+C:\projects\projects\Taller03\Taller03\obj\Debug\net8.0\refint\Taller03.dll
+C:\projects\projects\Taller03\Taller03\obj\Debug\net8.0\Taller03.pdb
+C:\projects\projects\Taller03\Taller03\obj\Debug\net8.0\Taller03.genruntimeconfig.cache
+C:\projects\projects\Taller03\Taller03\obj\Debug\net8.0\ref\Taller03.dll
