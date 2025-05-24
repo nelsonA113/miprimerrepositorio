@@ -1,0 +1,15 @@
+C:\projects\projects\TallerFinal_estructuradatos\TallerFinal_estructuradatos\obj\Debug\net8.0\TallerFinal_estructuradatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\projects\TallerFinal_estructuradatos\TallerFinal_estructuradatos\obj\Debug\net8.0\TallerFinal_estructuradatos.AssemblyInfoInputs.cache
+C:\projects\projects\TallerFinal_estructuradatos\TallerFinal_estructuradatos\obj\Debug\net8.0\TallerFinal_estructuradatos.AssemblyInfo.cs
+C:\projects\projects\TallerFinal_estructuradatos\TallerFinal_estructuradatos\obj\Debug\net8.0\TallerFinal_estructuradatos.csproj.CoreCompileInputs.cache
+C:\projects\projects\TallerFinal_estructuradatos\TallerFinal_estructuradatos\obj\Debug\net8.0\TallerFinal_estructuradatos.sourcelink.json
+C:\projects\projects\TallerFinal_estructuradatos\TallerFinal_estructuradatos\bin\Debug\net8.0\TallerFinal_estructuradatos.exe
+C:\projects\projects\TallerFinal_estructuradatos\TallerFinal_estructuradatos\bin\Debug\net8.0\TallerFinal_estructuradatos.deps.json
+C:\projects\projects\TallerFinal_estructuradatos\TallerFinal_estructuradatos\bin\Debug\net8.0\TallerFinal_estructuradatos.runtimeconfig.json
+C:\projects\projects\TallerFinal_estructuradatos\TallerFinal_estructuradatos\bin\Debug\net8.0\TallerFinal_estructuradatos.dll
+C:\projects\projects\TallerFinal_estructuradatos\TallerFinal_estructuradatos\bin\Debug\net8.0\TallerFinal_estructuradatos.pdb
+C:\projects\projects\TallerFinal_estructuradatos\TallerFinal_estructuradatos\obj\Debug\net8.0\TallerFinal_estructuradatos.dll
+C:\projects\projects\TallerFinal_estructuradatos\TallerFinal_estructuradatos\obj\Debug\net8.0\refint\TallerFinal_estructuradatos.dll
+C:\projects\projects\TallerFinal_estructuradatos\TallerFinal_estructuradatos\obj\Debug\net8.0\TallerFinal_estructuradatos.pdb
+C:\projects\projects\TallerFinal_estructuradatos\TallerFinal_estructuradatos\obj\Debug\net8.0\TallerFinal_estructuradatos.genruntimeconfig.cache
+C:\projects\projects\TallerFinal_estructuradatos\TallerFinal_estructuradatos\obj\Debug\net8.0\ref\TallerFinal_estructuradatos.dll
